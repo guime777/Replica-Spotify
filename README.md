@@ -9,7 +9,10 @@ O intuito deste repositório é melhorar as técinas do HTML e CSS, no expoto, f
 
 Site Desenvolvido em tecnologia HTML e CSS com responsividade presente em tablets e smartphone
 
+<div align=center>
+    
 [Acesse aqui](https://guime777.github.io/Replica-Spotify/)
+</div>
 
 
 ## Site proposto: Spotify
