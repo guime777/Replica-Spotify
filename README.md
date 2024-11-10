@@ -21,3 +21,5 @@ O intuito deste repositório é melhorar as técinas do HTML e CSS, no expoto, f
         - footer
 - [x] Realizando segundo commit
 - [x] Enviando ao github
+
+[Acesse aqui](https://guime777.github.io/Replica-Spotify/)
