@@ -5,8 +5,8 @@ O intuito deste repositório é melhorar as técinas do HTML e CSS, no expoto, f
 <div align=center>
     <img src="./Assets/Macbook-Air.png" width=400>
 </div>
-<br>
- [Acesse aqui](https://guime777.github.io/Replica-Spotify/)
+
+
 
 ## Site proposto: Spotify
 
@@ -24,4 +24,4 @@ O intuito deste repositório é melhorar as técinas do HTML e CSS, no expoto, f
 - [x] Realizando segundo commit
 - [x] Enviando ao github
 
-
+ [Acesse aqui](https://guime777.github.io/Replica-Spotify/)
