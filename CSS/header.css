@@ -16,7 +16,8 @@ header ul {
 
 @media (max-width: 400px) {
   header ul {
-    font-size: 1rem;
+    font-size: .8rem;
     text-align: center;
+    padding-right: 6rem;
   }
 }

@@ -43,7 +43,7 @@ main li {
   display: flex;
   color: white;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: left;
   padding: 4rem;
 }
 .parte-2 li {
@@ -115,12 +115,10 @@ main li {
 /* ================== Responsividade 400px ============================= */
 
 @media (max-width: 400px) {
+
   #lateral a {
-    display: flex;
     font-size: 1rem;
-    text-align: center;
-    justify-content: center;
-    align-items: center;
+    width: 40%;
   }
 
   .perfil {
@@ -128,10 +126,47 @@ main li {
   }
 
   .imagens img {
-    max-width: 11rem;
+    max-width: 7rem;
+  }
+
+  .imagens h2{
+    font-size: .9rem;
   }
 
   .parte-2 img {
-    max-width: 11rem;
+    max-width: 8rem;
   }
+  
+  .parte-2 h2{
+    font-size: .9rem;
+  }
+
+  .parte-2 ul {
+    width: 40rem;
+    justify-content: left;
+  }
+  .parte-2 li {
+    justify-content: left;
+  }
+
+  main > h1 {
+    font-size: 2rem;
+  }
+  main ul {
+    width: 35rem;
+    justify-content: left;
+}
+main li{
+  justify-content: left;
+
+}
+
+.parte-2 h1 {
+  font-size: 2rem;
+}
+
+.perfil h2{
+  font-size: 1.4rem;
+}
+
 }
